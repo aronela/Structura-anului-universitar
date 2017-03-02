@@ -1,4 +1,4 @@
-# Semestrul 2
+# Anul 1 - Semestrul 2
 
 * Aplicatii Web
 * Baze de date
