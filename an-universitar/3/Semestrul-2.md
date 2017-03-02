@@ -1,3 +1,3 @@
-# Semestrul 2
+# Anul 3 - Semestrul 2
 
 * Programare
