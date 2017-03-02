@@ -1,4 +1,4 @@
-#Semestrul 1
+# Anul 1 - Semestrul 1
 
 * Algoritmi
 * Comportament organizational
